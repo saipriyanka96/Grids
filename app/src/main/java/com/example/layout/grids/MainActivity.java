@@ -16,7 +16,7 @@ import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
     GridView gridView;
-    TextView textView;
+   
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
